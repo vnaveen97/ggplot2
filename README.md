@@ -1,4 +1,4 @@
-# ggplot2
+# tidyverse and ggplot
 Here we can find some of the basics of tidyverse and ggplot2
 ###### Dataset: http://672258.youcanlearnit.net/college.csv
 ### About the Dataset
